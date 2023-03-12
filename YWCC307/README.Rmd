@@ -8,3 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 This individual presentation covers asymmetric encryption.
+
+```{r}
+summary(iris)
+```
